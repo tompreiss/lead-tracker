@@ -19,6 +19,13 @@ button {
     padding: 10px 20px;
     border: 1px solid #5f9341;
     font-weight: bold;
+    border-radius: 50px;
+}
+
+button:hover {
+    background: #9b0000;
+    cursor: pointer;
+    transition: 1s;
 }
 
 #delete-btn {
